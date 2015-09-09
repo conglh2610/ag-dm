@@ -10,6 +10,7 @@ define([], function () {
 
         this.routeConfig = function () {
 
+
             var viewsDirectory = '/apps/',
             controllersDirectory = '/apps/';
 
